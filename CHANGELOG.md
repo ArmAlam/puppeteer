@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [14.4.0](https://github.com/puppeteer/puppeteer/compare/v14.3.0...v14.4.0) (2022-06-09)
+
+
+### Features
+
+* support node-like environments ([#8490](https://github.com/puppeteer/puppeteer/issues/8490)) ([f64ec20](https://github.com/puppeteer/puppeteer/commit/f64ec2051b9b2d12225abba6ffe9551da9751bf7))
+
+
+### Bug Fixes
+
+* parse empty options in <select> ([#8489](https://github.com/puppeteer/puppeteer/issues/8489)) ([b30f3f4](https://github.com/puppeteer/puppeteer/commit/b30f3f44cdabd9545c4661cd755b9d49e5c144cd))
+
 ## [14.3.0](https://github.com/puppeteer/puppeteer/compare/v14.2.1...v14.3.0) (2022-06-07)
 
 
